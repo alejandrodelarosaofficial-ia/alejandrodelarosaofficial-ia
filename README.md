@@ -16,10 +16,14 @@ Minha missão é unir minha bagagem em gestão com técnicas modernas de **Data 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-- **Linguagens**: Python, SQL  
-- **Bibliotecas**: Pandas, Numpy, Matplotlib, Seaborn, Plotly, BeautifulSoup, Requests, WordCloud  
-- **Visualização**: Power BI, Looker Studio, Streamlit, Excel Avançado  
-- **Outros**: Git & GitHub, Google Sheets  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=seaborn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
@@ -38,3 +42,4 @@ Minha missão é unir minha bagagem em gestão com técnicas modernas de **Data 
 ---
 
 💡 **Neste portfólio compartilho projetos de Data Analytics que unem minha experiência em gestão e análise financeira com técnicas modernas de scraping, análise de texto e visualização interativa em Streamlit.**
+
