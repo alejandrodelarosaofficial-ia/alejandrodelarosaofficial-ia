@@ -36,7 +36,7 @@ Minha missão é unir minha bagagem em gestão com técnicas modernas de **Data 
 
 ## 📫 Como me encontrar
 - 💼 LinkedIn: [Daniel Alejandro De La Rosa Lopez](https://www.linkedin.com/in/daniel-alejandro-de-la-rosa-lopez-16a975250)  
-- 🌐 Empresa: [Alejandro de la Rosa - Consultoria em Gestão de Negócios ] (https://alejandrodelarosa.herospark.co/p/gestaodenegocios)
+- 🌐 Empresa: [Alejandro de la Rosa - Consultoria em Gestão de Negócios ](https://alejandrodelarosa.herospark.co/p/gestaodenegocios)
 - ✉️ E-mail: **alejandrodelarosa.official@gmail.com**  
 
 ---
